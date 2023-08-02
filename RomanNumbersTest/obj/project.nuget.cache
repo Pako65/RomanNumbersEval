@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hkcCUglsbcENnRJJK0QGZf9WLeH+2V7C3Up1sePiDVSVcdPPZsIdpgcGjdEws1KWAU408tipWKtw3yKTa4P3KQ==",
+  "dgSpecHash": "IxhAoHDYhmHOoI4HFM6oVSuShDIN7j4zsD1udbKGJLI1APjfFIdNwxg8JqbEpZPXtokfiqSBMSHO81T7zDIL9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersTest\\RomanNumbersTest.csproj",
+  "projectFilePath": "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersTest\\RomanNumbers.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicoc\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\nicoc\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

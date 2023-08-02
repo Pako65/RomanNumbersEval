@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj": {}
+    "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj": {
+    "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj",
+        "projectUniqueName": "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj",
         "projectName": "RomanNumbersEvalClasse",
-        "projectPath": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj",
+        "projectPath": "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\RomanNumbersEvalClasse.csproj",
         "packagesPath": "C:\\Users\\nicoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\obj\\",
+        "outputPath": "C:\\Users\\nicoc\\source\\repos\\RomanNumbersEval\\RomanNumbersEvalClasse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

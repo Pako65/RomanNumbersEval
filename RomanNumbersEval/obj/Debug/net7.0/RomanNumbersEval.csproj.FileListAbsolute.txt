@@ -1,0 +1,15 @@
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\bin\Debug\net7.0\RomanNumbersEval.exe
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\bin\Debug\net7.0\RomanNumbersEval.deps.json
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\bin\Debug\net7.0\RomanNumbersEval.runtimeconfig.json
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\bin\Debug\net7.0\RomanNumbersEval.dll
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\bin\Debug\net7.0\RomanNumbersEval.pdb
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.csproj.AssemblyReference.cache
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.AssemblyInfoInputs.cache
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.AssemblyInfo.cs
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.dll
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\refint\RomanNumbersEval.dll
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.pdb
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\RomanNumbersEval.genruntimeconfig.cache
+C:\Users\nicoc\Source\Repos\RomanNumbersEval\RomanNumbersEval\obj\Debug\net7.0\ref\RomanNumbersEval.dll
