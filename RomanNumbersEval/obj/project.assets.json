@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicoc\\Documents\\Alternance\\c#\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval.csproj",
+      "projectUniqueName": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval.csproj",
       "projectName": "RomanNumbersEval",
-      "projectPath": "C:\\Users\\nicoc\\Documents\\Alternance\\c#\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval.csproj",
+      "projectPath": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval.csproj",
       "packagesPath": "C:\\Users\\nicoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicoc\\Documents\\Alternance\\c#\\RomanNumbersEval\\RomanNumbersEval\\RomanNumbersEval\\obj\\",
+      "outputPath": "C:\\Users\\nicoc\\Source\\Repos\\RomanNumbersEval\\RomanNumbersEval\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
